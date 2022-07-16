@@ -8,7 +8,6 @@ const user=[
 // Map
 const out=user.map((x)=>x.firstName+" "+x.lastName);
 console.log(out);
-
 const arr=[4,5,6,3];
  const res=arr.map((x)=>x.toString(2));
  console.log(res);
