@@ -7,5 +7,6 @@ let carInfo = function (inventory){
         }
     }
 }
+
 module.exports = carInfo
 
